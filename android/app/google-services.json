@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "550221477766",
+    "firebase_url": "https://apren-dev-fdb98-default-rtdb.firebaseio.com",
+    "project_id": "apren-dev-fdb98",
+    "storage_bucket": "apren-dev-fdb98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550221477766:android:49aa69675c09ce6cab5e07",
+        "android_client_info": {
+          "package_name": "com.aprendev.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550221477766-5m8vp72qmj3h2uclkjd7lk1f7s5g4ls4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aprendev.app",
+            "certificate_hash": "05ff0475289e45db45fcdcfe2cdf7365941327be"
+          }
+        },
+        {
+          "client_id": "550221477766-hd6mmk3ekaiop8hs4jhe9s6q0u5jlgl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aprendev.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "550221477766-j93ckgn6jlbkqfti8kfih6o9r0pv6dlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSUe2EC6N8YVYlS_waHEjj5HGkCLIlR84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550221477766-j93ckgn6jlbkqfti8kfih6o9r0pv6dlr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550221477766-6jajb81ok8nnb808mljs0kqshh3t6enj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aprendev.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
